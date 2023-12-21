@@ -3,34 +3,31 @@ const app = express();
 const path = require('path');
 const cors = require('cors');
 
-
-const loansRouter         = require("./routes/loans");
-const usersRouter         = require("./routes/users");
-const banksRouter         = require("./routes/banks");
-const receiptsRouter      = require("./routes/receipts");
-const clientsRouter       = require("./routes/clients");
-const countersRouter      = require("./routes/counters");
+const loansRouter = require("./routes/loans");
+const usersRouter = require("./routes/users");
+const banksRouter = require("./routes/banks");
+const receiptsRouter = require("./routes/receipts");
+const clientsRouter = require("./routes/clients");
+const countersRouter = require("./routes/counters");
 const organizationsRouter = require("./routes/organizations");
-const uploadRouter        = require("./routes/upload");
-const paymentsRouter      = require("./routes/payments");
-const authRouter          = require("./routes/auth");
+const uploadRouter = require("./routes/upload");
+const paymentsRouter = require("./routes/payments");
+const authRouter = require("./routes/auth");
 
-const hostname = process.env.HOST || "localhost"
+const hostname = process.env.HOST || "localhost";
 const port = process.env.PORT || 3000;
 
 app.use(express.json());
 
-app.use(
-    express.urlencoded({
-        extended: true,
-    })
-);
+app.use(express.urlencoded({
+    extended: true
+}));
 
 // Use the cors middleware with appropriate options
 app.use(cors({
     origin: 'http://localhost:5173', // Replace with the URL of your React app
     methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
-    credentials: true, // Allow cookies and credentials to be sent
+    credentials: true // Allow cookies and credentials to be sent
 }));
 
 // Serve files from the 'files' directory
@@ -49,8 +46,7 @@ app.use("/counters", countersRouter);
 app.use("/organizations", organizationsRouter);
 app.use("/upload", uploadRouter);
 app.use("/payments", paymentsRouter);
-app.use("/auth", authRouter)
-
+app.use("/auth", authRouter);
 
 /* Error handler middleware */
 app.use((err, req, res, next) => {
