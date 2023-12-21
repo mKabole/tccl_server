@@ -5,7 +5,7 @@ const config = {
       user: "tccl",
       password: "214@Tccl2023",
       database: "tccl_db",
-      connectTimeout: 60000
+      connectTimeout: 600000
     },
     listPerPage: 20,
   };
