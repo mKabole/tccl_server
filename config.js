@@ -1,7 +1,7 @@
 const config = {
     db: {
-      /* don't expose password or any sensitive info, done only for demo */
-      host: "http://196.46.192.214",
+      
+      host: "196.46.192.214",
       user: "tccl",
       password: "214@Tccl2023",
       database: "tccl_db",
