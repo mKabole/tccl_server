@@ -26,11 +26,12 @@
         "mysql": "^2.18.1",
         "mysql2": "^3.6.1",
         "sequelize": "^6.35.1",
-        "uuid": "^9.0.1",
-        "sqlite3": "^5.1.6"
+        "sqlite3": "^5.1.6",
+        "uuid": "^9.0.1"
     },
     "devDependencies": {
-        "nodemon": "^3.0.1",
-        "babel-cli": "^6.26.0"
+        "babel-cli": "^6.26.0",
+        "electron-rebuild": "^3.2.9",
+        "nodemon": "^3.0.1"
     }
 }
