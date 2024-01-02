@@ -1,38 +1,58 @@
 const express = require('express');
 const router = express.Router();
-const loans = require('../services/users');
+const { Sequelize, Model, DataTypes } = require('sequelize');
+const bodyParser = require('body-parser');
+// const loans = require('../services/users');
 const jwt = require('jsonwebtoken');
 
-/* GET loans */
-router.get('/user-roles', async function (req, res, next) {
-    try {
-        res.json(await loans.getUserRoles(req.query.page));
-    } catch (err) {
-        console.error(`Error while getting user roles `, err.message);
-        next(err);
-    }
+// Create Sequelize instance
+const sequelize = new Sequelize({
+    dialect: 'sqlite',
+    storage: './database.sqlite'
 });
 
-/* Create User */
-router.post('/register', async function (req, res, next) {
-    try {
-        res.json(await loans.createUser(req.body));
-    } catch (err) {
-        console.error(`Error creating user `, err.message);
-        next(err);
-    }
+// Define User model
+class User extends Model { }
+User.init({
+    firstname: DataTypes.STRING,
+    lastname: DataTypes.STRING,
+    email: DataTypes.STRING,
+    roleID: DataTypes.INTEGER,
+    password: DataTypes.STRING
+}, { sequelize, modelName: 'users' });
+
+class Roles extends Model { }
+Roles.init({
+    role: DataTypes.STRING
+}, { sequelize, modelName: 'user_roles' })
+
+// Sync models with database
+sequelize.sync();
+
+// Middleware for parsing request body
+router.use(bodyParser.urlencoded({ extended: false }));
+router.use(bodyParser.json());
+
+router.get('/', async (req, res) => {
+    const users = await User.findAll();
+    res.json(users);
 });
 
-/* login User */
-router.post('/login', async function (req, res, next) {
-    try {
-        res.json(await loans.getUser(req.body));
-    } catch (err) {
-        console.log(`Invalid email or password `, err.message);
-        next(err);
-    }
+router.post('/', async (req, res) => {
+    const user = await User.create(req.body)
+    res.json(user)
+
+})
+
+//User Roles
+router.get('/user-roles', async (req, res) => {
+    const roles = await Roles.findAll();
+    res.json(roles);
 });
 
+router.post('/user-roles', async (req, res) => {
+    const role = await Roles.create(req.body)
+    res.json(role)
+})
 
-
-module.exports = router;
+module.exports = router

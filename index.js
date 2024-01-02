@@ -37,13 +37,13 @@ app.get("/", (req, res) => {
     res.json({ message: "ok" });
 });
 
-app.use("/banks", banksRouter);
+app.use("/banks", banksRouter.router);
 app.use("/loans", loansRouter);
 app.use("/users", usersRouter);
 app.use("/receipts", receiptsRouter);
-app.use("/clients", clientsRouter);
+app.use("/clients", clientsRouter.router);
 app.use("/counters", countersRouter);
-app.use("/organizations", organizationsRouter);
+app.use("/organizations", organizationsRouter.router);
 app.use("/upload", uploadRouter);
 app.use("/payments", paymentsRouter);
 app.use("/auth", authRouter);

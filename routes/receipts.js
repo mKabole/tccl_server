@@ -4,11 +4,38 @@ const multer = require('multer');
 const fs = require('fs');
 const db = require('../services/db');
 const { v4: uuidv4 } = require('uuid');
+const { Sequelize, Model, DataTypes } = require('sequelize');
+const bodyParser = require('body-parser');
+const sqlite3 = require('sqlite3').verbose();
+const database = new sqlite3.Database('database.sqlite');
 const receipts = require('../services/receipts');
 
 const router = express.Router();
 const storage = multer.memoryStorage();
 const upload = multer({ storage: storage });
+
+// Create Sequelize instance
+const sequelize = new Sequelize({
+    dialect: 'sqlite',
+    storage: './database.sqlite'
+});
+
+// Define User model
+class Payment extends Model { }
+Payment.init({
+    batch_no: DataTypes.STRING,
+    nrc: DataTypes.STRING,
+    total: DataTypes.FLOAT,
+    paidFor: DataTypes.BOOLEAN
+}, { sequelize, modelName: 'payments' });
+
+
+// Sync models with database
+sequelize.sync();
+
+// Middleware for parsing request body
+router.use(bodyParser.urlencoded({ extended: false }));
+router.use(bodyParser.json());
 
 /* GET receipts */
 router.get('/', async function (req, res, next) {
@@ -37,28 +64,22 @@ router.post('/upload', upload.single('csvFile'), (req, res) => {
     }
 
     const csvData = req.file.buffer.toString('utf8');
-
     const batchId = uuidv4();
-    const created = new Date().toISOString().slice(0, 10)
-
-    // Parse the CSV data using csv-parser and insert it into the database
     const results = [];
+
     csvData
         .split('\n')
         .slice(1) // Skip the header row if present
         .forEach((row) => {
             const [NRCNo, TotalK] = row.split(',');
 
-            // Insert data into the database using your MySQL connection
-            db.query(
+            database.run(
                 `INSERT INTO payments
-                    (batch_no, nrc, total, created)
+                    (batch_no, nrc, total, paidFor)
                 VALUES
                     (?, ?, ?, ?)`,
-                [
-                    batchId, NRCNo, TotalK, created
-                ],
-                (err, result) => {
+                [batchId, NRCNo, TotalK, false],
+                (err) => {
                     if (err) {
                         console.error('Error inserting data:', err);
                     }
@@ -72,8 +93,6 @@ router.post('/upload', upload.single('csvFile'), (req, res) => {
         });
 
     console.log('CSV data processed and ready for database insertion:', results);
-
-    // Respond with a success message or any additional processing you need to do
     res.send('CSV data uploaded and processed.');
 });
 
