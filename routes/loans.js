@@ -40,7 +40,7 @@ Loan.init({
 class LoanStatus extends Model { }
 LoanStatus.init({
     status: DataTypes.STRING
-    
+
 }, { sequelize, modelName: 'loan_status' });
 // Sync models with database
 sequelize.sync();
@@ -72,7 +72,11 @@ router.put('/:id', async (req, res) => {
 router.delete('/:id', async (req, res) => {
     const loan = await Loan.findByPk(req.params.id);
     if (loan) {
-        await Loan.destroy();
+        await Loan.destroy({
+            where: {
+                id: req.params.id // Assuming 'id' is the primary key of LoanPayment
+            }
+        });
         res.json({ message: 'Loan deleted' });
     } else {
         res.status(404).json({ message: 'Loan not found' });
