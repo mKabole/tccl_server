@@ -1,5 +1,6 @@
 const config = {
     db: {
+      
       host: "196.46.192.209",
       user: "phpmyadmin",
       password: "209@Tccl2023",
