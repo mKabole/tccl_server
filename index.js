@@ -39,7 +39,7 @@ app.get("/", (req, res) => {
 
 app.use("/banks", banksRouter.router);
 app.use("/loans", loansRouter);
-app.use("/users", usersRouter);
+app.use("/users", usersRouter.router);
 app.use("/receipts", receiptsRouter);
 app.use("/clients", clientsRouter.router);
 app.use("/counters", countersRouter);

@@ -55,4 +55,7 @@ router.post('/user-roles', async (req, res) => {
     res.json(role)
 })
 
-module.exports = router
+module.exports = {
+    router,
+    User
+}
