@@ -10,13 +10,13 @@ async function getBatches(page = 1) {
     return new Promise((resolve, reject) => {
         database.all(
             `SELECT
-                batch_no, created, COUNT(*) AS row_count
+                batch_no, createdAt, COUNT(*) AS row_count
             FROM
                 payments
             GROUP BY
-                batch_no, created
+                batch_no, createdAt
             ORDER BY
-                created DESC
+                createdAt DESC
             LIMIT ?
             OFFSET ?`,
             [config.listPerPage, offset],
