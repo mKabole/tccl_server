@@ -279,10 +279,7 @@ async function getLoanArrears() {
             LEFT JOIN
                 loan_statuses AS ls ON ld.statusID = ls.id
             LEFT JOIN
-                organizations AS o ON ld.organizationID = o.id
-            LEFT JOIN
-                arrears AS a ON ld.id = a.loanID
-            WHERE ld.has_arrears = 1`,
+                organizations AS o ON ld.organizationID = o.id`,
             (err, rows) => {
                 if (err) {
                     reject(err);
