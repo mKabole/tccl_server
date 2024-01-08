@@ -25,7 +25,8 @@ app.use(express.urlencoded({
 
 // Use the cors middleware with appropriate options
 app.use(cors({
-    origin: 'https://tccl.onrender.com', // Replace with the URL of your React app
+    // origin: 'http://localhost:5173',
+    origin: 'https://tccl.onrender.com/',
     methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
     credentials: true // Allow cookies and credentials to be sent
 }));

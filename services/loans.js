@@ -184,7 +184,7 @@ async function getNewLoans() {
             `SELECT
                 ld.*,
                 u.firstname AS user_firstname, u.lastname AS user_lastname,
-                c.firstname AS client_firstname, c.lastname AS client_lastname, c.email AS client_mail, c.phone AS client_phone,
+                c.firstname AS client_firstname, c.lastname AS client_lastname, c.email AS client_mail, c.phone AS client_phone, c.nrc, c.employee_no,
                 b.bank, b.account_no, b.account_name, b.branch, b.swift_code, ls.status, o.name AS organization_name
             FROM
                 loan_details AS ld
@@ -231,7 +231,7 @@ async function getSettledLoans() {
             `SELECT
                 ld.*,
                 u.firstname AS user_firstname, u.lastname AS user_lastname,
-                c.firstname AS client_firstname, c.lastname AS client_lastname, c.email AS client_mail, c.phone AS client_phone,
+                c.firstname AS client_firstname, c.lastname AS client_lastname, c.email AS client_mail, c.phone AS client_phone, c.nrc, c.employee_no,
                 b.bank, b.account_no, b.account_name, b.branch, b.swift_code, ls.status, o.name AS organization_name
             FROM
                 loan_details AS ld
@@ -266,7 +266,7 @@ async function getLoanArrears() {
             `SELECT
                 ld.*,
                 u.firstname AS user_firstname, u.lastname AS user_lastname,
-                c.firstname AS client_firstname, c.lastname AS client_lastname, c.email AS client_mail, c.phone AS client_phone,
+                c.firstname AS client_firstname, c.lastname AS client_lastname, c.email AS client_mail, c.phone AS client_phone, c.date_of_birth,
                 b.bank, b.account_no, b.account_name, b.branch, b.swift_code, ls.status, o.name AS organization_name
             FROM
                 loan_details AS ld
@@ -279,7 +279,9 @@ async function getLoanArrears() {
             LEFT JOIN
                 loan_statuses AS ls ON ld.statusID = ls.id
             LEFT JOIN
-                organizations AS o ON ld.organizationID = o.id`,
+                organizations AS o ON ld.organizationID = o.id
+            WHERE
+                ld.has_arrears = true`,
             (err, rows) => {
                 if (err) {
                     reject(err);
@@ -298,7 +300,7 @@ async function getAll() {
             `SELECT
                 ld.*,
                 u.firstname AS user_firstname, u.lastname AS user_lastname,
-                c.firstname AS client_firstname, c.lastname AS client_lastname, c.email AS client_mail, c.phone AS client_phone,
+                c.firstname AS client_firstname, c.lastname AS client_lastname, c.email AS client_mail, c.phone AS client_phone, c.date_of_birth,
                 b.bank, b.account_no, b.account_name, b.branch, b.swift_code, ls.status, o.name AS organization_name
             FROM
                 loan_details AS ld
@@ -324,8 +326,36 @@ async function getAll() {
     });
 }
 
+async function update(id, loan_details) {
+    return new Promise((resolve, reject) => {
+        let query = 'UPDATE loan_details SET ';
+        const values = [];
+        Object.entries(loan_details).forEach(([key, value]) => {
+            if (value !== null && value !== undefined) {
+                query += `${key} = ?, `;
+                values.push(value);
+            }
+        });
 
+        if (values.length === 0) {
+            reject(new Error('No fields provided for update'));
+        }
 
+        query = query.slice(0, -2); // Removes the last two characters (", ") added in the loop
+        query += ` WHERE id = ?`;
+        values.push(id);
+
+        database.run(query, values, function (err) {
+            if (err) {
+                console.error('Error in updating loan details:', err);
+                reject(err);
+            } else {
+                const message = this.changes ? 'Loan details updated successfully' : 'Error in updating loan details';
+                resolve({ message });
+            }
+        });
+    });
+}
 
 module.exports = {
     getMultiple,
@@ -336,5 +366,6 @@ module.exports = {
     getSettledLoans,
     getLoanArrears,
     getAll,
-    createTopup
+    createTopup,
+    update
 }

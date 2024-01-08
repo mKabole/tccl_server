@@ -14,6 +14,7 @@ const sequelize = new Sequelize({
 class Client extends Model { }
 Client.init({
     firstname: DataTypes.STRING,
+    middlename: DataTypes.STRING,
     lastname: DataTypes.STRING,
     address: DataTypes.STRING,
     employment_address: DataTypes.STRING,

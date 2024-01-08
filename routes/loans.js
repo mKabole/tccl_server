@@ -34,7 +34,10 @@ Loan.init({
     outright_settlement_amount: DataTypes.FLOAT,
     outright_settlement_date: DataTypes.DATE,
     has_default: DataTypes.BOOLEAN,
-    default_months: DataTypes.INTEGER
+    default_months: DataTypes.INTEGER,
+    total_collectible: DataTypes.FLOAT,
+    monthly_deduction: DataTypes.FLOAT,
+    has_arrears: DataTypes.BOOLEAN
 }, { sequelize, modelName: 'loan_details' });
 
 class LoanStatus extends Model { }
@@ -60,12 +63,11 @@ router.post('/status', async (req, res) => {
 });
 
 router.put('/:id', async (req, res) => {
-    const loan = await Loan.findByPk(req.params.id);
-    if (loan) {
-        await Loan.update(req.body);
-        res.json(loan);
-    } else {
-        res.status(404).json({ message: 'Loan not found' });
+    try {
+        res.json(await loans.update(req.params.id, req.body));
+    } catch (err) {
+        console.error(`Error while getting loan details `, err.message);
+        next(err);
     }
 });
 

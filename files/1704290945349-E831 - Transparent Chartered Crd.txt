@@ -1,0 +1,261 @@
+Pers. Area           Pers. SubArea    Empl No  Man No   Name                NRC No                               Period                  Sub-Total (K)       Total (K)   No Emp No Rec
+Lusaka-Lusaka        M.o.Comm&Trans   00198635 00000000 C TEMBO             879620/11/1                          202309                  166.67              166.67      1      1
+Lusaka-Lusaka        M.o.Comm&Trans   00291943 00000000 T BANDA             372899/10/1                          202309                  120.00              120.00      1      1
+Lusaka-Lusaka        M.o.Comm&Trans   00339629 00000000 C MWINSA            118486/37/1                          202309                  1,666.00            1,666.00    1      1
+Central-Chibombo     Education Distr  00036273 44054872 K MPUNDU            161053/46/1                          202309                  500.00              500.00      1      1
+Central-Chibombo     Education Distr  00203891 00000000 E CHANDA            183569/46/1                          202309                  1,000.10            1,000.10    1      2
+Central-Chibombo     Education Distr  00252811 00000000 K LUNGU             247095/68/1                          202309                  100.00              100.00      1      1
+Central-Chibombo     Education Distr  00263511 00000000 N MARTIN            277115/17/1                          202309                  500.00              500.00      1      1
+Central-Chibombo     Education Distr  00366932 00000000 A LITETA            297790/17/1                          202309                  1,666.67            1,666.67    1      1
+Central-Kabwe        Education Distr  00021036 44055178 B LUNGU MICHELO     191060/16/1                          202309                  200.00              200.00      1      1
+Central-Kabwe        Education Distr  00031508 44057554 L MPAKASHA          332536/61/1                          202309                  250.00              250.00      1      1
+Central-Kabwe        Education Distr  00146449 00400690 S MVULA             107720/56/1                          202309                  250.00              250.00      1      1
+Central-Kabwe        Education Distr  00163866 00502066 M MOYO              310457/16/1                          202309                  166.67              166.67      1      1
+Central-Kapiri       Education Distr  00171760 44502949 S MWANZA            820913/11/1                          202309                  333.33              333.33      1      1
+Central-Kapiri       Education Distr  00249182 00000000 Y KAPESO            980011/11/1                          202309                  183.00              183.00      1      1
+Copperbelt-Chililabo Education Distr  00233818 00000000 S SAKALA            107573/19/1                          202309                  500.00              500.00      1      1
+Copperbelt-Chingola  Education Distr  00241140 00000000 E MOFYA             177642/63/1                          202309                  150.00              150.00      1      1
+Eastern-Chama        Education Distr  00147521 00400741 D CHIWUSWA          123259/18/1                          202309                  666.67              666.67      1      1
+Eastern-Chipata      Education Distr  00146516 00000000 S MUSOOGWA          358576/61/1                          202309                  250.00              250.00      1      1
+Eastern-Chipata      Education Distr  00284769 00000000 P SOSALA            176548/10/1                          202309                  700.00              700.00      1      1
+Eastern-Chipata      Education Distr  00304156 00000000 S NYIRENDA          221449/62/1                          202309                  40.00               40.00       1      1
+Eastern-Katete       Education Distr  00285004 00000000 C THEU              560438/52/1                          202309                  111.00              111.00      1      1
+Lusaka-Kafue         Education Distr  00050774 46581875 D MUTALE            167201/45/1                          202309                  500.00              500.00      1      1
+Lusaka-Kafue         Education Distr  00050846 46582315 Y MWANZA            106481/18/1                          202309                  500.00              500.00      1      1
+Lusaka-Kafue         Education Distr  00101035 46585124 D KUNDA             574989/11/1                          202309                  333.30              333.30      1      1
+Lusaka-Kafue         Education Distr  00168206 00586059 J CHIWUSWA          134255/18/1                          202309                  300.01              300.01      1      1
+Lusaka-Kafue         Education Distr  00229724 00000000 S TEMBO             145680/10/1                          202309                  150.00              150.00      1      1
+Lusaka-Kafue         Education Distr  00247215 00000000 E NYAMBE            117329/10/1                          202309                  1,248.30            1,248.30    1      1
+Lusaka-Lusaka        Education Distr  00035297 77074060 A MUKWEMBA          143589/25/1                          202309                  200.01              200.01      1      1
+Lusaka-Lusaka        Education Distr  00044966 46581665 J MUSONDA           167352/45/1                          202309                  300.00              300.00      1      1
+Lusaka-Lusaka        Education Distr  00045244 46584165 L MWANSA            578680/11/1                          202309                  166.67              166.67      1      1
+Lusaka-Lusaka        Education Distr  00045886 46581530 L CHELLAH           210239/43/1                          202309                  1,233.33            1,233.33    1      1
+Lusaka-Lusaka        Education Distr  00045955 46800027 F NGAMBI            239608/16/1                          202309                  250.00              250.00      1      1
+Lusaka-Lusaka        Education Distr  00046788 46582851 M CHILANGA          294331/74/1                          202309                  500.00              500.00      1      1
+Lusaka-Lusaka        Education Distr  00047216 46581753 J NKOSI             403835/11/1                          202309                  666.50              666.50      1      1
+Lusaka-Lusaka        Education Distr  00047474 46801961 F ZULU              271225/53/1                          202309                  333.00              333.00      1      1
+Lusaka-Lusaka        Education Distr  00047600 46801159 M MUSONDA           272462/16/1                          202309                  283.00              283.00      1      1
+Lusaka-Lusaka        Education Distr  00047864 46584338 I IMIKENDU          194313/84/1                          202309                  100.00              100.00      1      1
+Lusaka-Lusaka        Education Distr  00047865 46581498 H MUKE              154574/45/1                          202309                  100.00              100.00      1      1
+Lusaka-Lusaka        Education Distr  00048518 46028679 C HANEMBO           223187/75/1                          202309                  300.00              300.00      1      1
+Lusaka-Lusaka        Education Distr  00094186 45601303 S MWILA             253849/66/1                          202309                  500.00              500.00      1      1
+Lusaka-Lusaka        Education Distr  00151824 00585572 B AONGOLA           278527/16/1                          202309                  166.67              166.67      1      1
+Lusaka-Lusaka        Education Distr  00153403 00585427 N SIANCHEKA         233755/73/1                          202309                  333.33              333.33      1      1
+Lusaka-Lusaka        Education Distr  00163829 46804861 A CHEMBE            655366/11/1                          202309                  400.00              400.00      1      1
+Lusaka-Lusaka        Education Distr  00164360 00804767 T MUYAMBO           277522/66/1                          202309                  333.34              333.34      1      1
+Lusaka-Lusaka        Education Distr  00174978 46586583 B KAPILA            362644/74/1                          202309                  360.00              360.00      1      1
+Lusaka-Lusaka        Education Distr  00195219 00077902 A ICHIDI            177051/23/1                          202309                  166.67              166.67      1      1
+Lusaka-Lusaka        Education Distr  00203945 00000000 M MBOLELA           923408/11/1                          202309                  750.00              750.00      1      1
+Lusaka-Lusaka        Education Distr  00207685 00000000 G LIKEZO            284241/10/1                          202309                  500.01              500.01      1      1
+Lusaka-Lusaka        Education Distr  00218324 00805477 C CHANSA            216134/65/1                          202309                  100.00              100.00      1      1
+Lusaka-Lusaka        Education Distr  00301004 00000000 S CHANDA            805638/11/1                          202309                  500.00              500.00      1      1
+Lusaka-Lusaka        Education Distr  00330931 00000000 E NGUNGU            318933/10/1                          202309                  166.67              166.67      1      1
+Northern-Mungwi      Education Distr  00289298 00000000 B CHIFUKA           967991/11/1                          202309                  495.00              495.00      1      1
+Western-Kalabo       Education Distr  00270367 00000000 K MWITUMWA          258638/83/1                          202309                  1,750.00            1,750.00    1      1
+Western-Senanga      Education Distr  00128845 48035836 M MBANGA            147435/83/1                          202309                  480.00              480.00      1      1
+Western-Senanga      Education Distr  00158959 00038408 M MUYANGWA          229121/83/1                          202309                  300.01              300.01      1      1
+Western-Senanga      Education Distr  00235671 00000000 M LIBONGANI         220873/71/1                          202309                  10.00               10.00       1      1
+Western-Senanga      Education Distr  00249989 00301198 T MWAULUKA          273023/82/1                          202309                  498.00              498.00      1      1
+Western-Senanga      Education Distr  00303522 00000000 E SHAWA             368627/16/1                          202309                  750.00              750.00      1      1
+Western-Senanga      Education Distr  00379633 00000000 J KABUTU            270915/83/1                          202309                  333.37              333.37      1      1
+Western-Senanga      Education Distr  00379660 00000000 M LIYWALII          221880/83/1                          202309                  950.00              950.00      1      1
+Lusaka-Chilanga      Education Distr  00272291 00000000 M MUMBA             294568/10/1                          202309                  150.00              150.00      1      1
+Lusaka-Rufunsa       Education Distr  00170120 00585970 S TEMBO             108694/93/1                          202309                  166.50              166.50      1      1
+Lusaka-Rufunsa       Education Distr  00175259 00203593 S HAMWEETE          244194/73/1                          202309                  15.00               15.00       1      1
+Central-Chisamba     Education Distr  00036387 44057837 L KAMANDO           213372/76/1                          202309                  333.30              333.30      1      1
+Central-Chisamba     Education Distr  00145726 44501530 S PHIRI             198386/17/1                          202309                  166.60              166.60      1      1
+Central-Chisamba     Education Distr  00147151 44501523 H PHIRI             353886/67/1                          202309                  130.00              130.00      1      1
+Western-Limulunga    Education Distr  00203828 00000000 N MUYANGWA          205114/84/1                          202309                  166.67              166.67      1      1
+Western-Mwandi       Education Distr  00019458 48035635 M MASILISO          263713/82/1                          202309                  900.00              900.00      1      1
+Western-Mwandi       Education Distr  00269697 00000000 E MACHAI            289363/82/1                          202309                  200.00              200.00      1      1
+Western-Mwandi       Education Distr  00270218 00000000 N WAMUNYIMA         238556/83/1                          202309                  633.00              633.00      1      1
+Western-Mwandi       Education Distr  00276653 00000000 S CHIPUTA           234577/84/1                          202309                  350.00              350.00      1      1
+Western-Mwandi       Education Distr  00283407 00000000 N KABUKABU          288964/82/1                          202309                  500.00              500.00      1      1
+Western-Nalolo       Education Distr  00284392 00000000 T MANDANDI          315749/88/1                          202309                  350.00              350.00      1      1
+Western-Nalolo       Education Distr  00284885 00000000 D MAINZA            103985/19/1                          202309                  166.67              166.67      1      1
+Western-Sioma        Education Distr  00329738 00000000 C NAMWANZWA         165243/85/1                          202309                  830.00              830.00      1      1
+Eastern-Lusangazi    Education Distr  00275381 00000000 A SAKALA            230771/54/1                          202309                  840.00              840.00      1      1
+Lusaka-Lusaka        M.o. Gre Eco&Ev  00043217 26175955 A DAUCHI            158743/63/1                          202309                  600.00              600.00      1      1
+Lusaka-Lusaka        M.o. Gre Eco&Ev  00262635 00000000 K MUTALE            245455/31/1                          202309                  10.00               10.00       1      1
+Central-Chibombo     MoH District     00164995 00000000 A CHIYOKOMA         286723/16/1                          202309                  1,500.00            1,500.00    1      1
+Central-Kabwe        MoH District     00152027 00062047 J MALUMBE SIANGA    164004/15/1                          202309                  300.01              300.01      1      1
+Central-Kabwe        MoH District     00200146 00000000 C KALUNGWANA        627268/11/1                          202309                  20.00               20.00       1      1
+Lusaka-Kafue         MoH District     00186092 00000000 M SHAMBWEKA         583077/11/1                          202309                  500.10              500.10      1      1
+Lusaka-Kafue         MoH District     00295496 00000000 P MWAMULIMA         200959/10/1                          202309                  666.60              666.60      1      1
+Lusaka-Kafue         MoH District     00321580 00000000 W CHIBUYE           348949/53/1                          202309                  800.00              800.00      1      1
+Lusaka-Lusaka        MoH District     00115181 70060939 P SICHINGA          171126/24/1                          202309                  250.00              250.00      1      1
+Lusaka-Lusaka        MoH District     00155430 00000000 J BANDA             980466/11/1                          202309                  300.00              300.00      1      1
+Lusaka-Lusaka        MoH District     00170414 00000000 G KABWE             215927/71/1                          202309                  166.66              166.66      1      1
+Lusaka-Lusaka        MoH District     00181894 00000000 R BANDA             641439/11/1                          202309                  100.00              100.00      1      1
+Lusaka-Lusaka        MoH District     00250679 00000000 R NKHOMA            387909/74/1                          202309                  450.00              450.00      1      1
+Lusaka-Lusaka        MoH District     00254021 00000000 M NACHILIMA         379667/61/1                          202309                  200.01              200.01      1      1
+Lusaka-Lusaka        MoH District     00255048 00000000 M MITI              117036/10/1                          202309                  20.00               20.00       1      1
+Lusaka-Lusaka        MoH District     00259354 00000000 P KUNDA             325211/33/1                          202309                  166.67              166.67      1      1
+Lusaka-Lusaka        MoH District     00327984 00000000 S NGOMA             817753/11/1                          202309                  333.34              333.34      1      1
+Lusaka-Lusaka        MoH District     00332475 00000000 W SHAWA             479176/61/1                          202309                  166.60              166.60      1      1
+North-Western-Kabomp MoH District     00132716 00062664 K KEKE              147848/22/1                          202309                  900.00              900.00      1      1
+North-Western-Solwez MoH District     00320011 00000000 E MUKUMA            182111/35/1                          202309                  620.00              620.00      1      1
+Northern-Kasama      MoH District     00296093 00000000 A INAMBAO           341558/82/1                          202309                  850.00              850.00      1      1
+Southern-Mazabuka    MoH District     00278398 00000000 M CHALATA           388891/74/1                          202309                  333.33              333.33      1      1
+Lusaka-Chirundu      MoH District     00290283 00000000 S SIKAONGA          284385/66/1                          202309                  1,250.00            1,250.00    1      1
+Central-Chisamba     MoH District     00184036 00000000 J CHEWE             360074/67/1                          202309                  333.30              333.30      1      1
+Western-Luampa       MoH District     00323555 00000000 I Imalimbila        265853/83/1                          202309                  1,000.00            1,000.00    1      1
+Western-Sioma        MoH District     00397541 00000000 M TEMBO             151898/10/1                          202309                  750.00              750.00      1      1
+Lusaka-Lusaka        MoH ChainamaH    00262024 00000000 M MWANKOTAMI        146213/19/1                          202309                  800.00              800.00      1      1
+Central-Kabwe        MoH Kabwe GenH   00254378 00000000 N NAMONJE           236886/47/1                          202309                  250.00              250.00      1      1
+Central-Kabwe        MoH Kabwe Mine   00113353 65060071 E CHOONDE           264799/16/1                          202309                  166.67              166.67      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00121552 09006339 P MWALE             760570/11/1                          202309                  200.00              200.00      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00121642 00001763 M MUCHINIKILA       167980/21/1                          202309                  500.00              500.00      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00121926 09004895 K KABWE             289519/67/1                          202309                  200.00              200.00      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00122001 09006277 A NACHILIMA         547127/11/1                          202309                  200.01              200.01      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00122126 09004618 S NJOBVU            565018/11/1                          202309                  1,400.00            1,400.00    1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00122152 09007592 S NYIRONGO          682567/11/1                          202309                  300.01              300.01      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00122158 09007717 M MBINDAWINA        857840/11/1                          202309                  1,500.00            1,500.00    1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00122165 09004932 M KOLOMU            593967/11/1                          202309                  250.00              250.00      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00122176 09002479 J MWENDA            162972/23/1                          202309                  250.00              250.00      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00122274 09006349 C MWALE             213280/53/1                          202309                  500.00              500.00      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00122351 09004730 G MOOMBA            601215/11/1                          202309                  1,000.00            1,000.00    1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00122356 09006471 L NYIRONGO          753652/11/1                          202309                  80.00               80.00       1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00122437 09007686 F HAMALAMBO         278482/16/1                          202309                  495.00              495.00      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00122614 09007367 F BANDA             292361/16/1                          202309                  166.60              166.60      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00122621 09004338 J MTONGA            669437/11/1                          202309                  300.00              300.00      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00122662 09002444 N CHIBONI           201794/64/1                          202309                  233.34              233.34      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00122681 09006671 S MUSONDA           574465/11/1                          202309                  700.01              700.01      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00122765 09005589 J MVULA             513104/11/1                          202309                  333.33              333.33      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00122799 09007457 M MWALE             373971/11/1                          202309                  166.60              166.60      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00122803 09002493 D PHIRI             535560/11/1                          202309                  500.01              500.01      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00122804 09002312 L DAKA              216348/53/1                          202309                  333.30              333.30      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00122902 09006400 D SAKALA            677164/11/1                          202309                  250.00              250.00      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00123060 09006684 P CHILEKWA          490124/11/1                          202309                  250.00              250.00      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00123158 09004529 C CHAPONDA          422412/11/1                          202309                  200.00              200.00      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00123221 09006415 S MUCHINDU          567011/11/1                          202309                  180.00              180.00      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00123272 09004613 E MBEWE             212578/68/1                          202309                  166.67              166.67      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00123423 09006793 J NDILAYI           779646/11/1                          202309                  250.01              250.01      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00123439 09006769 M KUMATONGO         161210/83/1                          202309                  166.67              166.67      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00123494 09006888 A NKELENGA          804824/11/1                          202309                  500.00              500.00      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00131421 00005767 D MUFAYA            648764/11/1                          202309                  83.34               83.34       1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00141232 00005912 C MULENGA           183329/43/1                          202309                  166.67              166.67      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00141377 00006784 M MUSUMALI          163792/63/1                          202309                  208.00              208.00      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00141511 00004787 Q NAMWIINGA         753556/11/1                          202309                  166.60              166.60      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00142075 00005247 R SIAMBILU          161706/75/1                          202309                  500.00              500.00      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00142662 09006941 C MUBANGA           240043/64/1                          202309                  250.00              250.00      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00142688 09000443 C MALUPANDE         463561/11/1                          202309                  200.00              200.00      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00142826 00006345 L MWANZA            490351/11/1                          202309                  400.00              400.00      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00142864 09005142 D NYANGU            513024/11/1                          202309                  250.00              250.00      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00143112 00007371 B NTAMBO            695722/11/1                          202309                  380.00              380.00      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00149307 00074469 C MWABA             213697/31/1                          202309                  500.00              500.00      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00181967 00000000 M PHIRI             224769/73/1                          202309                  833.30              833.30      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00198533 00000000 A TEMBO             217445/71/1                          202309                  70.00               70.00       1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00198589 00000000 Y TONGA             811994/11/1                          202309                  383.30              383.30      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00208954 00000000 N MATHWES           178054/46/1                          202309                  266.00              266.00      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00209016 00000000 G EVELYN            918384/11/1                          202309                  533.33              533.33      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00209618 00000000 M LIKANDO           313685/82/1                          202309                  40.00               40.00       1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00209668 00000000 R SAWALIKA          319803/16/1                          202309                  416.00              416.00      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00209671 00000000 M KAYAWE            238783/83/1                          202309                  166.60              166.60      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00210122 00000000 V ZULU              457044/52/1                          202309                  166.60              166.60      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00211222 00000000 M Chilombo          240766/66/1                          202309                  83.00               83.00       1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00218624 00000000 R MUBITA            916310/11/1                          202309                  333.20              333.20      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00218777 00000000 H MAMBWE            110189/34/1                          202309                  319.44              319.44      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00227678 00000000 L BANDA             148951/10/1                          202309                  166.67              166.67      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00230694 00000000 M BANDA             509021/11/1                          202309                  600.00              600.00      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00241628 00000000 P CHINYAMA          192341/10/1                          202309                  833.33              833.33      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00248852 00000000 E TEMBO             111718/10/1                          202309                  300.00              300.00      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00250887 00000000 J ZULU              225437/45/1                          202309                  500.00              500.00      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00253671 00000000 W BANDA             125170/19/1                          202309                  250.00              250.00      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00257734 00000000 K CHIPOPOLA MUTAL   952887/11/1                          202309                  340.00              340.00      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00258803 00000000 M PETER             815655/11/1                          202309                  200.01              200.01      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00262338 00000000 C MUFANA            884770/11/1                          202309                  50.00               50.00       1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00263805 00000000 I LUZENDU           762273/11/1                          202309                  300.00              300.00      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00266969 00000000 R DAKA              811976/11/1                          202309                  166.67              166.67      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00266999 00000000 M KANIKI            457154/67/1                          202309                  166.67              166.67      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00269521 00000000 P MULENGA           228884/31/1                          202309                  166.60              166.60      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00297120 00000000 J BANDA             293175/10/1                          202309                  300.01              300.01      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00299716 00000000 A MWIINGA           753655/11/1                          202309                  250.01              250.01      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00299815 00000000 J MWANGO            344809/16/1                          202309                  250.01              250.01      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00332915 00000000 T CHIDAKWA          243875/10/1                          202309                  400.00              400.00      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00333163 00000000 B NYIRENDA          407833/16/1                          202309                  300.01              300.01      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00335215 00000000 I Songolo           162117/63/1                          202309                  333.34              333.34      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00336704 00000000 E KAPIMPA           488494/67/1                          202309                  1,726.67            1,726.67    1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00339790 00000000 P CHIMPINDE         825827/11/1                          202309                  300.00              300.00      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00345599 00000000 J POTO              364877/61/1                          202309                  1,000.00            1,000.00    1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00347209 00000000 S CHISALA           221684/72/1                          202309                  400.00              400.00      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00362557 00000000 C MAYAKA            416384/61/1                          202309                  333.30              333.30      1      1
+Lusaka-Lusaka        UTH-Adult Hosp   00363094 00000000 B MULENGA           178576/10/1                          202309                  1,300.00            1,300.00    1      1
+Western-Senanga      MoH SenangaHosp  00334367 00000000 C KAHALU            236177/81/1                          202309                  900.01              900.01      1      1
+Lusaka-Lusaka        UTH-Cancer Hosp  00266317 00000000 G PHIRI             948060/11/1                          202309                  450.00              450.00      1      1
+Lusaka-Lusaka        UTH-Childrens H  00123290 09046537 J MALAMA            204127/42/1                          202309                  300.01              300.01      1      1
+Lusaka-Lusaka        UTH-Childrens H  00218871 00000000 M MUBITA            339515/16/1                          202309                  416.00              416.00      1      1
+Lusaka-Lusaka        UTH-Childrens H  00349957 00000000 A JERE              265901/31/1                          202309                  250.00              250.00      1      1
+Lusaka-Lusaka        UTH-Eye Hospita  00293669 00000000 I SIMBAYA           322533/61/1                          202309                  653.33              653.33      1      1
+Lusaka-Lusaka        UTH-Eye Hospita  00326373 00000000 G SAVIYE            222323/64/1                          202309                  641.50              641.50      1      1
+Lusaka-Lusaka        UTH-Women &NewB  00121893 09006574 M KAWISHA           759973/11/1                          202309                  150.00              150.00      1      1
+Lusaka-Lusaka        UTH-Women &NewB  00122296 09007353 M SAILI             712198/11/1                          202309                  200.00              200.00      1      1
+Lusaka-Lusaka        UTH-Women &NewB  00122399 09005841 P TACHILA           570911/11/1                          202309                  493.33              493.33      1      1
+Lusaka-Lusaka        UTH-Women &NewB  00122651 09006350 L KATONGO           733744/11/1                          202309                  400.00              400.00      1      1
+Lusaka-Lusaka        UTH-Women &NewB  00122908 09006927 E NJOBVU            632093/11/1                          202309                  575.01              575.01      1      1
+Lusaka-Lusaka        UTH-Women &NewB  00123394 09005879 F CHISULO           459923/11/1                          202309                  500.00              500.00      1      1
+Lusaka-Lusaka        UTH-Women &NewB  00141235 00005829 P MWIYA             706994/11/1                          202309                  166.67              166.67      1      1
+Lusaka-Lusaka        UTH-Women &NewB  00142605 00007111 D CHIYOKOMA         206571/17/1                          202309                  850.00              850.00      1      1
+Lusaka-Lusaka        UTH-Women &NewB  00142728 09006010 G BANDA             112980/54/1                          202309                  200.01              200.01      1      1
+Lusaka-Lusaka        UTH-Women &NewB  00227681 00000000 M ISABEL            290874/16/1                          202309                  624.00              624.00      1      1
+Lusaka-Lusaka        UTH-Women &NewB  00248882 00000000 E HALL              937062/11/1                          202309                  166.60              166.60      1      1
+Lusaka-Lusaka        UTH-Women &NewB  00257471 00000000 M CHANDA            282354/64/1                          202309                  333.34              333.34      1      1
+Lusaka-Lusaka        UTH-Women &NewB  00296327 00000000 T MBEWE             836013/11/1                          202309                  166.67              166.67      1      1
+Lusaka-Lusaka        UTH-Women &NewB  00327138 00000000 S SIMONGA           237927/75/1                          202309                  166.67              166.67      1      1
+Lusaka-Lusaka        UTH-Women &NewB  00341527 00000000 N KAFULA            460720/61/1                          202309                  333.33              333.33      1      1
+Lusaka-Lusaka        M.o. Infra&Hous  00258699 00000000 G CHEWE             241026/10/1                          202309                  150.00              150.00      1      1
+Lusaka-Lusaka        Judiciary        00048937 07009311 M MWIINGA           600497/11/1                          202309                  833.34              833.34      1      1
+Lusaka-Lusaka        Judiciary        00147816 00187077 M PHIRI             241940/73/1                          202309                  250.00              250.00      1      1
+Lusaka-Lusaka        Judiciary        00210346 00000000 M MUMBA             237901/73/1                          202309                  300.00              300.00      1      1
+Lusaka-Lusaka        Judiciary        00223787 00000000 C MWANZA            308836/66/1                          202309                  300.00              300.00      1      1
+Lusaka-Lusaka        Judiciary        00226384 00000000 P YUNDAYUNDA        951995/11/1                          202309                  300.01              300.01      1      1
+Lusaka-Lusaka        Judiciary        00253174 00000000 M HABWATO           330438/10/1                          202309                  400.00              400.00      1      1
+Lusaka-Lusaka        Judiciary        00288190 00000000 C KASONDE           382254/10/1                          202309                  166.67              166.67      1      1
+Lusaka-Lusaka        Judiciary        00296568 00000000 C KELVIN KAPEMBWA   182719/41/1                          202309                  166.67              166.67      1      1
+Lusaka-Lusaka        Judiciary        00340425 00000000 F MWENYA            374827/64/1                          202309                  500.00              500.00      1      1
+Lusaka-Lusaka        Judiciary        00348439 00000000 G CHITALU           484861/61/1                          202309                  150.00              150.00      1      1
+Lusaka-Chirundu      Judiciary        00287524 00000000 J MULENGA           282799/10/1                          202309                  15.00               15.00       1      1
+Lusaka-Lusaka        Judiciary HQ     00044129 07009197 N CHIKOMBA          805485/11/1                          202309                  166.67              166.67      1      1
+Lusaka-Lusaka        Judiciary HQ     00148735 00181853 C CHIPAMPE          224892/31/1                          202309                  350.00              350.00      1      1
+Lusaka-Lusaka        Judiciary HQ     00182907 00010347 R HOYO              512529/11/1                          202309                  300.00              300.00      1      1
+Lusaka-Lusaka        Judiciary HQ     00201908 00000000 J MWELWA            228586/82/1                          202309                  200.00              200.00      1      1
+Lusaka-Lusaka        Judiciary HQ     00225992 00000000 F BANDA             877088/11/1                          202309                  200.00              200.00      1      1
+Lusaka-Lusaka        Judiciary HQ     00250303 00000000 M KASONGO           240099/64/1                          202309                  100.01              100.01      1      1
+Lusaka-Lusaka        Judiciary HQ     00287919 00000000 A MUYUNDA           917803/11/1                          202309                  166.67              166.67      1      1
+Lusaka-Lusaka        Judiciary IndRC  00048745 07005737 D KUMWENDA          174629/17/1                          202309                  166.60              166.60      1      1
+Lusaka-Lusaka        M.o.Legal Affr   00154326 00000000 I NGOMA             917025/11/1                          202309                  166.60              166.60      1      1
+Lusaka-Lusaka        M.o.LStock&Fish  00259158 00000000 M NGANDU            144528/10/1                          202309                  41.67               41.67       1      1
+Lusaka-Lusaka        M.o.LStock&Fish  00262937 00000000 L MALAMA SAMPA      206211/45/1                          202309                  1,025.00            1,025.00    1      1
+Lusaka-Lusaka        M.o.Labour&SocS  00298707 00000000 C LUCHEMBE          195374/65/1                          202309                  166.00              166.00      1      1
+Central-Kabwe        Province Admin   00255118 00000000 A   NSOFWA          240650/16/1                          202309                  200.00              200.00      1      1
+Central-Kabwe        Province Admin   00304286 00000000 T BANDA             339277/51/1                          202309                  166.67              166.67      1      1
+Eastern-Nyimba       Province Admin   00316536 00000000 K KAPUNGWE          246529/75/1                          202309                  1,200.00            1,200.00    1      1
+Lusaka-Lusaka        PSMD             00298322 00000000 E TEMBO             160648/10/1                          202309                  400.00              400.00      1      1
+Lusaka-Lusaka        State House      00049240 41153152 J SAKALA            598493/11/1                          202309                  166.67              166.67      1      1
+Lusaka-Lusaka        State House      00049270 41172834 A BANDA             102953/56/1                          202309                  400.00              400.00      1      1
+Lusaka-Lusaka        State House      00049321 41171247 T WILLIMA           573716/11/1                          202309                  250.01              250.01      1      1
+Lusaka-Lusaka        State House      00049384 41181614 F KATIBA            194769/76/1                          202309                  200.00              200.00      1      1
+Lusaka-Lusaka        State House      00143552 41183600 K NKHOMA            109563/54/1                          202309                  500.00              500.00      1      1
+Lusaka-Lusaka        State House      00218521 00000000 K LONDAISHA         294305/10/1                          202309                  500.01              500.01      1      1
+Lusaka-Lusaka        State House      00225170 00000000 S SIAMANDUMBA       220486/71/1                          202309                  500.01              500.01      1      1
+Lusaka-Lusaka        M.o.Sma&Med En   00186336 00765561 E BUTALE            848329/11/1                          202309                  833.33              833.33      1      1
+Lusaka-Lusaka        M.o.Works&Suppl  00129392 00000000 J MULEKA            102813/26/1                          202309                  200.00              200.00      1      1
+Central-Kabwe        ZP Police        00003047 00433610 C KAKUMBI           255782/66/1                          202309                  333.33              333.33      1      1
+Central-Kabwe        ZP Police        00266869 04046683 C MWELWA            360130/10/1                          202309                  750.00              750.00      1      1
+Lusaka-Lusaka        ZP Police        00002036 00432425 A CHIKWANDA         733036/11/1                          202309                  350.00              350.00      1      1
+Lusaka-Lusaka        ZP Police        00325430 00000000 C MAYUMBELO         260625/84/1                          202309                  500.00              500.00      1      1
+Southern-Livingstone ZP Police        00003873 00429367 T TONGA             417171/52/1                          202309                  1,000.00            1,000.00    1      1
+Lusaka-Lusaka        ZP Police HQ     00024764 04101282 M PHIRI             262024/67/1                          202309                  400.01              400.01      1      1
+Lusaka-Lusaka        ZP Police HQ     00173902 00186590 N BWALYA            278465/66/1                          202309                  250.00              250.00      1      1
+Lusaka-Lusaka        ZP Protective U  00231468 04043211 O SESA              217098/41/1                          202309                  166.67              166.67      1      1
+Lusaka-Lusaka        ZP State House   00003670 00431897 O MAZABA            103093/56/1                          202309                  333.34              333.34      1      1
+Lusaka-Lusaka        ZP State House   00003926 00431654 F SAMBWA            697914/11/1                          202309                  833.30              833.30      1      1
+Lusaka-Lusaka        ZP State House   00003977 00435294 F MUSONDA           736250/11/1                          202309                  500.00              500.00      1      1
+Lusaka-Lusaka        ZP State House   00004023 00435081 S NGALAMIKA         258430/43/1                          202309                  333.34              333.34      1      1
+Lusaka-Lusaka        ZP State House   00004049 00429556 G CHILUFYA          156298/65/1                          202309                  833.33              833.33      1      1
+Lusaka-Lusaka        ZP State House   00004060 00431760 T BANDA             270051/51/1                          202309                  250.00              250.00      1      1
+Lusaka-Lusaka        ZP State House   00043607 00437388 J CHILAMBWE         116655/34/1                          202309                  333.00              333.00      1      1
+Lusaka-Lusaka        ZP State House   00232040 04043417 A HAMUSIYA          167470/77/1                          202309                  600.00              600.00      1      1
+Lusaka-Lusaka        ZP State House   00232354 04043052 X BANGWE CHALWE     159365/18/1                          202309                  270.00              270.00      1      1
+Lusaka-Lusaka        ZP State House   00265454 00046546 T CHISENGA          168697/19/1                          202309                  460.00              460.00      1      1
+Lusaka-Lusaka        ZP State House   00325620 00000000 P CHIKUMBI          539996/10/1                          202309                  500.00              500.00      1      1

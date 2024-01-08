@@ -30,7 +30,7 @@ router.post('/signin', async (req, res) => {
 			expiresIn: '1h', // Token expiration time
 		});
 
-		res.status(200).json({ accessToken, role_id: user.roleID }); // Adjust this according to your Sequelize model attributes
+		res.status(200).json({ accessToken, role_id: user.roleID, user_id: user.id }); // Adjust this according to your Sequelize model attributes
 	} catch (error) {
 		console.error(error);
 		res.status(500).json({ message: 'Error logging in' });
